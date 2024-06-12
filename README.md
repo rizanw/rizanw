@@ -42,3 +42,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizanw&size_weight=0.15&count_weight=0.5&layout=compact&card_width=650&theme=vision-friendly-dark&hide=html,css,jupyter%20notebook,typescript&show_icons=true&hide_border=true" alt="most used languages" />
     <br />
 </div> 
+
+
+![](https://hit.yhype.me/github/profile?user_id=32553461) 
