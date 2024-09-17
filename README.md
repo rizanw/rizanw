@@ -17,23 +17,6 @@ Here are some ideas to get you started:
 
 ## I am Rizan, a **code wizard**! 🧙‍♂️
 
-## 🤙 Find Me
-
-<p align="center">
-  <a href= "https://www.linkedin.com/in/rizan-wibisono/">
-    <img height="74" width="74" src="https://img.icons8.com/sf-ultralight-filled/240/0e76a8/linkedin.png" alt="linkedin"/>
-  </a>
-  <a href= "https://rzndwb.medium.com/">
-    <img height="74" width="74" src="https://img.icons8.com/sf-ultralight-filled/240/1a8917/medium-logo.png" alt="medium"/>
-  </a>
-  <a href= "https://substack.com/@rizanw/">
-    <img height="64" width="64" src="https://img.icons8.com/sf-ultralight-filled/240/ff6719/bookmark-ribbon.png" alt="leetcode"/>
-  </a>
-  <a href= "https://leetcode.com/u/rizanw/">
-    <img height="74" width="74" src="https://img.icons8.com/sf-ultralight/240/ffa116/code.png" alt="leetcode"/>
-  </a>
-</p>
-
 ## 📈 Stats
 
 <div align="center">
