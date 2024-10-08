@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=rizanw&theme=highcontrast&hide_border=true&border_radius=5&card_width=650&card_height=170" alt="rizanw's GitHub Streak">
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizanw&size_weight=0.15&count_weight=0.5&layout=compact&card_width=650&theme=vision-friendly-dark&hide=html,css,jupyter%20notebook,typescript&show_icons=true&hide_border=true" alt="most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizanw&layout=compact&card_width=650&theme=vision-friendly-dark&exclude_repo=medlog,volunteerio,idy,nduwe-gawe,pweb_shortenerLink,git-webhook-automation&hide=html,css,javascript,jupyter%20notebook&size_weight=0.1&show_icons=true&hide_border=true" alt="most used languages" />
     <br />
 </div> 
 
