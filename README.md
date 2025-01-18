@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 ## I am Rizan, a **code wizard**! 🧙‍♂️
 
+I create a companion in personal finance called welfin, try it here:
+
+<div align="center">
+<a href="https://welfin.rzndwb.xyz/download" target="_blank" class="store-button">
+<img src="https://welfin.rzndwb.xyz/assets/images/icon.webp" alt="welfin" style="height: 68px;border-radius: 20%;display: block;margin: 0 auto;">
+</a>
+</div>
+
 ## 📈 Stats
 
 <div align="center">
