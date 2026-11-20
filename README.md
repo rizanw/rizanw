@@ -4,8 +4,6 @@
     <b>A Software Engineer👨‍💻 by day☼ and a Code Wizard🧙‍♂️ by night☾</b>
 </p>
 
----
-
 <p align="center">
     <strong>
         <a href="https://rzndwb.xyz">me</a> .
@@ -15,8 +13,6 @@
         <a href="https://rzndwb.xyz">projects</a>
     </strong>
 </p>
-
----
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
