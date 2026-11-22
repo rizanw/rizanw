@@ -27,7 +27,7 @@
 **Latest OSS Releases**
 
 <!-- recent_releases starts -->
-• [steno-spec v0.1.1](https://github.com/rizanw/steno-spec/releases/tag/v0.1.1) - 2026-11-17<br>• [go-failsafecall v0.4.0](https://github.com/rizanw/go-failsafecall/releases/tag/v0.4.0) - 2026-11-11<br>• [go-log v0.4.0](https://github.com/rizanw/go-log/releases/tag/v0.4.0) - 2026-11-11<br>• [go-retry v0.2.0](https://github.com/rizanw/go-retry/releases/tag/v0.2.0) - 2026-11-11<br>• [musde v1.0.0](https://github.com/rizanw/musde/releases/tag/v1.0.0) - 2020-12-31
+• [steno-spec v0.1.3](https://github.com/rizanw/steno-spec/releases/tag/v0.1.3) - 2026-11-22<br>• [go-failsafecall v0.4.0](https://github.com/rizanw/go-failsafecall/releases/tag/v0.4.0) - 2026-11-11<br>• [go-log v0.4.0](https://github.com/rizanw/go-log/releases/tag/v0.4.0) - 2026-11-11<br>• [go-retry v0.2.0](https://github.com/rizanw/go-retry/releases/tag/v0.2.0) - 2026-11-11<br>• [musde v1.0.0](https://github.com/rizanw/musde/releases/tag/v1.0.0) - 2020-12-31
 <!-- recent_releases ends -->
 </td>
 </tr>
