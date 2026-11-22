@@ -18,6 +18,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Admin PAT: the 'main' ruleset (PR + CodeQL required) only lets repo
+          # admins bypass it, and GITHUB_TOKEN can't be added as a bypass actor
+          # on a personal repo.
+          token: ${{ secrets.README_PAT }}
 
       - uses: actions/setup-node@v4
         with:
